@@ -1,2 +1,2 @@
-# Reconhecimento Facial com openCV
-Modelo que realiza o reconhecimento facial a partir da biblioteca OpenCV
+# Reconhecimento Facial com OpenCV
+Modelo que realiza o reconhecimento facial a partir da biblioteca OpenCV versão 1.3
