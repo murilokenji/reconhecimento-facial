@@ -1,3 +1,0 @@
---RESULTADO--
-Eigenfaces => Foto: 1.1.png => Reconhecido => Confiança : 3639.6992033938836
-Eigenfaces => Foto: 2.1.png => Reconhecido => Confiança : 5279.299455480439
