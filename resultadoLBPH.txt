@@ -1,3 +1,0 @@
---RESULTADO--
-LBPH => Foto: 1.1.png => Reconhecido => Confiança : 555.5025653789082
-LBPH => Foto: 2.1.png => Reconhecido => Confiança : 533.8446513273103
